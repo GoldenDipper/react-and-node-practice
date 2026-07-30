@@ -1,0 +1,23 @@
+{
+  "name": "react-and-node-practice",
+  "version": "1.0.0",
+  "description": "This repo is for practicing react and node.js",
+  "homepage": "https://github.com/GoldenDipper/react-and-node-practice#readme",
+  "bugs": {
+    "url": "https://github.com/GoldenDipper/react-and-node-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenDipper/react-and-node-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
